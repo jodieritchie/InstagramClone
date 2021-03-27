@@ -32,6 +32,8 @@ The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
 
+![InstagramClone2 Demo](https://user-images.githubusercontent.com/70171621/112709353-c235ce00-8e86-11eb-8d61-df8b05cc2576.gif)
+
 ##Part 1
 
 The following **required** functionality is completed:
