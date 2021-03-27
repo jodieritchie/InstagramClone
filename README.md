@@ -32,7 +32,7 @@ The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
 
-![InstagramClone2 Demo](https://user-images.githubusercontent.com/70171621/112709353-c235ce00-8e86-11eb-8d61-df8b05cc2576.gif)
+![InstagramClone2 Demo](https://user-images.githubusercontent.com/70171621/112709374-045f0f80-8e87-11eb-9f7e-0e2a0286a2d2.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
