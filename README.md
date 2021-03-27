@@ -59,7 +59,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![image](https://user-images.githubusercontent.com/70171621/112709388-25276500-8e87-11eb-81c4-bbae48e4b1f7.png)
+![InstagramCloneI Demo](https://user-images.githubusercontent.com/70171621/112709397-41c39d00-8e87-11eb-8818-ed7ac86b28e7.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
