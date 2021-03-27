@@ -34,6 +34,8 @@ The following **additional** features are implemented:
 
 ![InstagramClone2 Demo](https://user-images.githubusercontent.com/70171621/112709353-c235ce00-8e86-11eb-8d61-df8b05cc2576.gif)
 
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
 ##Part 1
 
 The following **required** functionality is completed:
